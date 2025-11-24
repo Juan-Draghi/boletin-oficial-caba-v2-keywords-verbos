@@ -17,11 +17,11 @@ Facilitar la detección de disposiciones, resoluciones, leyes, decretos y otra n
 
 ## Instrucciones de uso
 
-1. Abrí Analisis_BO_CABA_sin_LLM.ipynb en Colab.
-2. Ejecutá las celdas de instalación e importaciones.
-3. Subí uno o más PDF del Boletín Oficial (celda de subida).
-4. Ejecutá la celda de procesamiento.
-5. Descargá el Excel generado: Resultados_BO_CABA_sin_LLM_YYYYMMDD_HHMM.xlsx.
+1. Abrir Busqueda_Boletin_Oficial_CABA.ipynb en Colab.
+2. Ejecutar las celdas de instalación e importaciones.
+3. Subir uno o más PDF del Boletín Oficial (celda de subida).
+4. Ejecutar la celda de procesamiento.
+5. Descargar el Excel generado: Resultados_BO_CABA_sin_LLM_YYYYMMDD_HHMM.xlsx.
 
 ## Licencia
 
