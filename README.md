@@ -1,3 +1,7 @@
+> ⚠️ Este repositorio corresponde a una versión **anterior** del proyecto de relevamiento del Boletín Oficial de CABA.
+> La versión actual, basada en modelos de Machine Learning supervisado, se encuentra en: [https://github.com/tu-usuario/boletin-oficial-caba-ml](https://github.com/Juan-Draghi/boletin-oficial-caba-ml.)
+
+
 # Relevamiento diario del Boletín Oficial de la Ciudad de Buenos Aires
 
 Este repositorio contiene un script desarrollado en Python (Google Colab) para automatizar la búsqueda diaria de normativa vinculada al ejercicio profesional de la arquitectura en los ejemplares del Boletín Oficial de la Ciudad Autónoma de Buenos Aires.
