@@ -21,7 +21,7 @@ Facilitar la detección de disposiciones, resoluciones, leyes, decretos y otra n
 
 ## Instrucciones de uso
 
-1. Abrir Busqueda_Boletin_Oficial_CABA.ipynb en Colab.
+1. Abrir Busqueda_Boletin_Oficial_CABA_v2.ipynb en Colab.
 2. Ejecutar las celdas de instalación e importaciones.
 3. Subir uno o más PDF del Boletín Oficial (celda de subida).
 4. Ejecutar la celda de procesamiento.
